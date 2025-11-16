@@ -94,7 +94,7 @@
     "pump": "^1.0.2",
     "shortbus": "^1.2.7",
     "snazzy": "^7.0.0",
-    "standard": "^10.0.2",
+    "standard": "^17.1.2",
     "tape": "^4.6.3",
     "through2": "^2.0.3",
     "uglify-js": "^2.8.22",
